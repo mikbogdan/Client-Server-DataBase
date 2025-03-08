@@ -19,7 +19,7 @@
 - Backend: ASP.NET Core
 - Frontend: Angular
 - Десктоп: Electron
-- База данных: SQLite
+- База данных: MySQL
 
 ## Установка
 1. Клонируйте репозиторий:
@@ -34,5 +34,5 @@
    -npm install
   Запустите приложение:
     Backend: dotnet run
-    NewsClient: npm run build, npm run electron
+    NewsClient: ng build, npm run electron
     
