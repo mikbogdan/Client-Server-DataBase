@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\Crawlers",
+    "\\Models",
+    "\\obj",
+    "\\Services"
+  ],
+  "SelectedNode": "\\Crawlers\\NewsCrawler.cs",
+  "PreviewInSolutionExplorer": false
+}
